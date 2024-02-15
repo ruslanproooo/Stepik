@@ -1,4 +1,4 @@
-# Stepik
+![image](https://github.com/ruslanproooo/Stepik/assets/144116019/b1a578f4-b371-44eb-9bff-8d9ed2238b96)# Stepik
 ![image](https://github.com/ruslanproooo/Stepik/assets/144116019/d0afe5d2-c367-4ad5-b7d0-cccc39a89dd4)
 ![image](https://github.com/ruslanproooo/Stepik/assets/144116019/9aa2a290-3ff8-414b-ab15-c691aebfb3f7)
 ![image](https://github.com/ruslanproooo/Stepik/assets/144116019/c3998e6a-0b88-4945-a62e-01326509296f)
@@ -27,3 +27,7 @@
 ![image](https://github.com/ruslanproooo/Stepik/assets/144116019/eb6b3709-0930-49fb-aba5-0359742bd65b)
 ![image](https://github.com/ruslanproooo/Stepik/assets/144116019/af51c31e-040a-4ae1-abbe-023864db3b6e)
 ![image](https://github.com/ruslanproooo/Stepik/assets/144116019/6ebc9824-fa8a-447a-8591-8a84e6678f4c)
+![image](https://github.com/ruslanproooo/Stepik/assets/144116019/479fe00d-ff11-4a11-b9ca-984cb8e145a8)
+![image](https://github.com/ruslanproooo/Stepik/assets/144116019/85e5cc47-dc14-43df-9408-bcee26b31225)
+![image](https://github.com/ruslanproooo/Stepik/assets/144116019/c6a6d5f5-b96f-4b72-94eb-6cc10b295586)
+
