@@ -24,3 +24,6 @@
 ![image](https://github.com/ruslanproooo/Stepik/assets/144116019/96a290ef-a689-4221-a541-168335339a07)
 ![image](https://github.com/ruslanproooo/Stepik/assets/144116019/e4097ed7-4f5f-4392-8a81-1978470fc0b1)
 ![image](https://github.com/ruslanproooo/Stepik/assets/144116019/4c001fa4-6e77-49a1-be81-3e8b7b89b830)
+![image](https://github.com/ruslanproooo/Stepik/assets/144116019/eb6b3709-0930-49fb-aba5-0359742bd65b)
+![image](https://github.com/ruslanproooo/Stepik/assets/144116019/af51c31e-040a-4ae1-abbe-023864db3b6e)
+![image](https://github.com/ruslanproooo/Stepik/assets/144116019/6ebc9824-fa8a-447a-8591-8a84e6678f4c)
